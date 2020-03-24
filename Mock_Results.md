@@ -2,6 +2,8 @@
 
 
 OUTPUT:
+The 20 most common words from the three articles fed into the program in the beginning
+
 
 migrantes: 5
 derechos: 3
