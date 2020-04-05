@@ -27,7 +27,7 @@ favor: 1
 ser: 1
 
 
-# Mock Results for Hypothesis A
+# Mock Results for Keyword Searching
 
 
 INPUT:
