@@ -25,3 +25,15 @@ Es: 1
 Poder: 1
 favor: 1
 ser: 1
+
+
+# Mock Results for Hypothesis A
+
+
+INPUT:
+Urls from news articles
+Indicate whether searching for sentences with immigrant-related word or gender-related words
+
+
+OUTPUT:
+Plot of the 10 most frequent words that occur in sentences with the keywords indicated
