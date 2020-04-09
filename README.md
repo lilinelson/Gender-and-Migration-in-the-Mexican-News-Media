@@ -1,8 +1,28 @@
 # Gender and Migration in the Mexican News Media
 
-Mock Results for Hypothesis A
+Mock Results for Keyword Searching
+
 PACKAGES USED: 
 
+
+INPUT: 
+
+1) Urls from news articles
+
+2) Indicate whether searching sentences for immigrant-related keywords or gender-related keywords
+
+OUTPUT:
+
+Two barplots that indicate the most frequent words that appeared in the same sentence as the keywords. 
+
+See "Migrant Keywords Chart" and "Gendered Keywords Chart" for these barplots. 
+
+
+
+Mock Results for Hypothesis A
+
+PACKAGES USED:  numpy, 
+ requests, BeautifulSoup, Cucco, nltk.corpus, nltk, nltk.tokenize, urllib.request
 
 OUTPUT: The 20 most common words from the three articles fed into the program in the beginning
 
@@ -10,10 +30,3 @@ migrantes: 5 derechos: 3 Destacó: 2 organización: 2 Por: 2 ejemplo: 2 Puebla: 
 
 
 
-Mock Results for Keyword Searching
-PACKAGES USED: 
-
-
-INPUT: Urls from news articles Indicate whether searching for sentences with immigrant-related word or gender-related words
-
-OUTPUT: Plot of the 10 most frequent words that occur in sentences with the keywords indicated See "Migrant Keywords Chart" and "Gendered Keywords Chart"
