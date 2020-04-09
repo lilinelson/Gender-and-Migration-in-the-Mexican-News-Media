@@ -4,6 +4,8 @@ Mock Results for Keyword Searching
 
 PACKAGES USED: 
 
+requests, BeautifulSoup, nltk.corpus, nltk.tokenize, cucco, seaborn, collections, matplotlib.pyplot
+
 
 INPUT: 
 
