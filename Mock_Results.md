@@ -37,4 +37,4 @@ Indicate whether searching for sentences with immigrant-related word or gender-r
 
 OUTPUT:
 Plot of the 10 most frequent words that occur in sentences with the keywords indicated
-
+See "Migrant Keywords Chart" and "Gendered Keywords Chart"
